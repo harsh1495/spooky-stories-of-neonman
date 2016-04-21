@@ -4,7 +4,8 @@ DESCRIPTION:
 Engage yourself with the spooky adventures of Neonman, while collecting skulls and killing creepy ghosts. And more importantly, have fun.
 
 INSTALLATION: 
-Download the zip file on your desktop and run the index.html file on a local server (WAMP or XAMPP).
+Download the zip file on your desktop. Create a folder named Final_Game in your www directory of wamp server or htdocs directory of xamp server. Extract all the files from the zip to that folder.
+Open the browser and enter the address : localhost/Final_Game
 
 OBJECTIVE OF THE GAME:
 The objective of the game is to clear the level with the agility of Neonman. On the way, keep collecting skulls for points. 
