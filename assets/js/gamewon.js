@@ -22,7 +22,7 @@ GameWon.prototype = {
 	
 	menu: function(){
 		
-		window.location = "/Final_Game/index.html"; 
+		window.location = "/index.html"; 
 	}
 	
 }
